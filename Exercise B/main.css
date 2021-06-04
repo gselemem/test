@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+}
+
+section {
+  width: 100%;
+}
+
+body {
+  background-color: #ffe024;
+}
+
+.container {
+  overflow: hidden;
+  color: white;
+  background: black;
+  width: 90%;
+  margin: 50px;
+  padding: 20px 20px;
+}
+
+#image {
+  float: left;
+  width: 30%;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 40px;
+}
+
+#content {
+  float: left;
+  width: 70%;
+  padding-top: 140px;
+  padding-left: 20px;
+  padding-right: 40px;
+}
